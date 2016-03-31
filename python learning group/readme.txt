@@ -7,6 +7,6 @@ Current member
 Edward: I want to be a full-stack data scientist.
 Yue: I want to refresh my knowledge in Python and doing it by myself is lonely.
 Jialin: I want to learn more about using python for data mining purpose. 
-
+Mei: I want to refresh my stats knowledge and be able to use it in Python 
 
 * Adding your information here
